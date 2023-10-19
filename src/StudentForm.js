@@ -26,6 +26,8 @@ function Input() {
     return (
       <div className={styles.Input}>
         <h1>School Administrator Form</h1>
+        <p>School administrators, please use this form to track students' favorite lunch options. 
+        This information will be valuable for menu planning and ensuring that we provide meals that students enjoy.</p>
         <form>
           <div>
             <label htmlFor="firstName">First Name</label>
